@@ -1,0 +1,3 @@
+ Hello there this is my first file handling assignment.
+ This is week 5 of learning python in PLP programme.
+ Date: 29/08/2024
